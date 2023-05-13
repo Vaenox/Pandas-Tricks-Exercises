@@ -1,0 +1,101 @@
+duration,duration_seconds,start_time,start_station,start_terminal,end_time,end_station,end_terminal,bike_number,rider_type,id
+0h 10m 47sec.,647,2012-03-25 10:30:00,17th & Corcoran St NW,31214,2012-03-25 10:40:00,Calvert St & Woodley Pl NW,31106,W00576,Registered,326188
+0h 11m 45sec.,705,2012-03-28 18:59:00,Rosslyn Metro / Wilson Blvd & Ft Myer Dr,31015,2012-03-28 19:11:00,21st & M St NW,31212,W00011,Registered,345585
+0h 7m 45sec.,465,2012-03-12 22:30:00,3rd & H St NE,31616,2012-03-12 22:37:00,Florida Ave & R St NW,31503,W01215,Registered,251919
+0h 4m 27sec.,267,2012-03-12 20:11:00,14th & G St NW,31238,2012-03-12 20:15:00,14th & Rhode Island Ave NW,31203,W00455,Registered,251426
+0h 10m 2sec.,602,2012-02-03 09:06:00,Lamont & Mt Pleasant NW,31107,2012-02-03 09:16:00,17th & Rhode Island Ave NW,31239,W00300,Registered,105965
+0h 24m 59sec.,1499,2012-03-30 19:35:00,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31613,2012-03-30 20:00:00,Massachusetts Ave & Dupont Circle NW,31200,W01352,Registered,357661
+0h 13m 45sec.,825,2012-03-10 16:44:00,North Capitol St & F St NW,31624,2012-03-10 16:58:00,Thomas Circle,31241,W00089,Registered,240483
+0h 12m 58sec.,778,2012-02-09 21:32:00,14th & R St NW,31202,2012-02-09 21:45:00,18th & M St NW,31221,W01158,Registered,129535
+0h 2m 2sec.,122,2012-03-29 17:36:00,18th & Bell St,31007,2012-03-29 17:38:00,23rd & Crystal Dr,31011,W00653,Registered,350819
+0h 17m 44sec.,1064,2012-02-18 08:43:00,21st & I St NW,31205,2012-02-18 09:01:00,8th & H St NW,31228,W01398,Registered,156324
+0h 19m 43sec.,1183,2012-03-31 19:08:00,19th & E Street NW,31206,2012-03-31 19:28:00,10th St & Constitution Ave NW,31219,W01278,Casual,363912
+0h 16m 33sec.,993,2012-02-22 08:20:00,7th & R St NW / Shaw Library,31245,2012-02-22 08:37:00,New York Ave & 15th St NW,31222,W00356,Registered,170556
+0h 6m 49sec.,409,2012-03-22 17:10:00,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31613,2012-03-22 17:17:00,13th & D St NE,31622,W00211,Registered,310589
+0h 5m 34sec.,334,2012-01-19 20:39:00,Columbus Circle / Union Station,31623,2012-01-19 20:45:00,13th & H St NE,31611,W00724,Registered,56016
+0h 14m 17sec.,857,2012-03-31 10:30:00,13th & D St NE,31622,2012-03-31 10:44:00,4th & E St SW,31244,W01006,Registered,359385
+0h 16m 11sec.,971,2012-03-14 17:24:00,13th St & New York Ave NW,31227,2012-03-14 17:40:00,11th & H St NE,31614,W00034,Registered,261560
+0h 13m 42sec.,822,2012-03-31 09:10:00,36th & Calvert St NW / Glover Park,31304,2012-03-31 09:24:00,7th & T St NW,31109,W01242,Registered,359045
+0h 30m 29sec.,1829,2012-03-23 17:42:00,11th & Kenyon St NW,31102,2012-03-23 18:13:00,Van Ness Metro / UDC,31300,W00688,Registered,319246
+0h 9m 11sec.,551,2012-03-29 15:10:00,4th & M St SW,31108,2012-03-29 15:20:00,USDA / 12th & Independence Ave SW,31217,W01330,Registered,349768
+0h 11m 30sec.,690,2012-01-05 08:23:00,14th & Rhode Island Ave NW,31203,2012-01-05 08:34:00,North Capitol St & F St NW,31624,W00380,Registered,9340
+0h 6m 13sec.,373,2012-03-16 08:27:00,1st & M St NE,31603,2012-03-16 08:33:00,5th St & K St NW,31600,W00932,Registered,271143
+0h 2m 50sec.,170,2012-03-25 14:04:00,15th & P St NW,31201,2012-03-25 14:06:00,17th & Corcoran St NW,31214,W01241,Registered,327405
+0h 10m 9sec.,609,2012-03-17 13:30:00,Georgia & New Hampshire Ave NW,31400,2012-03-17 13:40:00,10th & U St NW,31111,W00448,Registered,277687
+0h 22m 26sec.,1346,2012-03-14 21:02:00,Massachusetts Ave & Dupont Circle NW,31200,2012-03-14 21:24:00,Lincoln Park / 13th & East Capitol St NE ,31619,W01296,Registered,263627
+0h 9m 18sec.,558,2012-02-01 07:55:00,16th & Harvard St NW,31103,2012-02-01 08:04:00,Massachusetts Ave & Dupont Circle NW,31200,W00127,Registered,97060
+0h 28m 39sec.,1719,2012-02-10 12:40:00,Columbus Circle / Union Station,31623,2012-02-10 13:09:00,USDA / 12th & Independence Ave SW,31217,W00679,Casual,131319
+0h 0m 49sec.,49,2012-03-14 20:23:00,Columbia Rd & Belmont St NW,31113,2012-03-14 20:24:00,Columbia Rd & Belmont St NW,31113,W00345,Registered,263433
+0h 14m 12sec.,852,2012-03-15 18:52:00,Adams Mill & Columbia Rd NW,31104,2012-03-15 19:07:00,Florida Ave & R St NW,31503,W01331,Registered,269059
+0h 15m 36sec.,936,2012-03-22 18:14:00,Tenleytown / Wisconsin Ave & Albemarle St NW,31303,2012-03-22 18:30:00,Connecticut Ave & Newark St NW / Cleveland Park,31305,W01194,Registered,311508
+0h 11m 15sec.,675,2012-02-26 16:27:00,Georgia Ave and Fairmont St NW,31207,2012-02-26 16:38:00,16th & Harvard St NW,31103,W00455,Registered,188243
+0h 2m 13sec.,133,2012-01-08 11:51:00,Columbia Rd & Belmont St NW,31113,2012-01-08 11:54:00,20th St & Florida Ave NW,31110,W00191,Registered,21641
+0h 15m 5sec.,905,2012-03-13 07:25:00,14th St & Spring Rd NW,31401,2012-03-13 07:40:00,McPherson Square - 14th & H St NW,31216,W01271,Registered,252309
+0h 13m 21sec.,801,2012-02-13 18:46:00,John McCormack Dr & Michigan Ave NE,31502,2012-02-13 19:00:00,Columbus Circle / Union Station,31623,W00454,Registered,139911
+0h 28m 22sec.,1702,2012-03-20 19:53:00,Jefferson Dr & 14th St SW,31247,2012-03-20 20:22:00,Clarendon Blvd & Pierce St,31016,W01023,Registered,299762
+0h 5m 33sec.,333,2012-03-01 18:08:00,13th St & New York Ave NW,31227,2012-03-01 18:14:00,17th & K St NW / Farragut Square,31233,W00606,Registered,203446
+0h 15m 2sec.,902,2012-03-18 18:18:00,5th St & K St NW,31600,2012-03-18 18:33:00,USDA / 12th & Independence Ave SW,31217,W00361,Registered,287327
+0h 18m 44sec.,1124,2012-01-01 01:04:00,4th St & Massachusetts Ave NW,31604,2012-01-01 01:23:00,15th St & Massachusetts Ave SE,31626,W01213,Registered,50
+0h 13m 25sec.,805,2012-01-07 20:50:00,16th & Harvard St NW,31103,2012-01-07 21:04:00,14th & Rhode Island Ave NW,31203,W00566,Registered,20354
+0h 7m 51sec.,471,2012-03-13 07:07:00,US Dept of State / Virginia Ave & 21st St NW,31220,2012-03-13 07:15:00,Metro Center / 12th & G St NW,31230,W00801,Registered,252235
+0h 10m 37sec.,637,2012-03-23 07:38:00,Lamont & Mt Pleasant NW,31107,2012-03-23 07:49:00,15th & P St NW,31201,W00573,Registered,314355
+0h 8m 34sec.,514,2012-03-14 07:18:00,15th & P St NW,31201,2012-03-14 07:27:00,4th St & Massachusetts Ave NW,31604,W01405,Registered,258189
+0h 12m 21sec.,741,2012-03-28 12:42:00,14th & V St NW,31101,2012-03-28 12:54:00,18th & M St NW,31221,W00501,Registered,343351
+0h 22m 41sec.,1361,2012-03-22 21:00:00,19th & E Street NW,31206,2012-03-22 21:23:00,S Joyce & Army Navy Dr,31006,W01336,Registered,313107
+0h 15m 43sec.,943,2012-02-18 15:15:00,10th & U St NW,31111,2012-02-18 15:31:00,1st & Rhode Island Ave NW,31506,W00471,Casual,158313
+0h 14m 50sec.,890,2012-02-10 21:31:00,8th & H St NW,31228,2012-02-10 21:46:00,14th & Rhode Island Ave NW,31203,W00813,Registered,133397
+0h 6m 51sec.,411,2012-03-12 06:39:00,14th & Harvard St NW,31105,2012-03-12 06:46:00,Calvert St & Woodley Pl NW,31106,W00506,Registered,246850
+0h 12m 22sec.,742,2012-03-14 23:01:00,California St & Florida Ave NW,31116,2012-03-14 23:13:00,1st & Rhode Island Ave NW,31506,W01310,Registered,264111
+0h 21m 54sec.,1314,2012-03-22 16:43:00,Lamont & Mt Pleasant NW,31107,2012-03-22 17:05:00,Metro Center / 12th & G St NW,31230,W00746,Registered,310344
+0h 12m 23sec.,743,2012-01-17 11:38:00,17th & K St NW / Farragut Square,31233,2012-01-17 11:51:00,7th & F St NW / National Portrait Gallery,31232,W01284,Registered,47225
+0h 12m 30sec.,750,2012-03-03 14:30:00,21st & I St NW,31205,2012-03-03 14:42:00,7th & F St NW / National Portrait Gallery,31232,W00495,Registered,209611
+0h 10m 47sec.,647,2012-02-18 12:18:00,Georgia Ave and Fairmont St NW,31207,2012-02-18 12:29:00,Massachusetts Ave & Dupont Circle NW,31200,W00021,Registered,157101
+0h 0m 3sec.,3,2012-03-06 09:42:00,Massachusetts Ave & Dupont Circle NW,31200,2012-03-06 09:42:00,Massachusetts Ave & Dupont Circle NW,31200,W01309,Registered,220000
+0h 6m 37sec.,397,2012-01-15 20:42:00,21st & M St NW,31212,2012-01-15 20:48:00,15th & P St NW,31201,W00173,Registered,44242
+0h 15m 4sec.,904,2012-02-14 19:05:00,21st & I St NW,31205,2012-02-14 19:20:00,15th & P St NW,31201,W00585,Registered,144010
+0h 6m 46sec.,406,2012-03-31 08:58:00,Columbia Rd & Belmont St NW,31113,2012-03-31 09:05:00,17th & Corcoran St NW,31214,W01048,Registered,359016
+0h 12m 4sec.,724,2012-03-31 11:58:00,14th & Harvard St NW,31105,2012-03-31 12:10:00,McPherson Square - 14th & H St NW,31216,W00270,Registered,360015
+0h 7m 44sec.,464,2012-02-13 15:17:00,Massachusetts Ave & Dupont Circle NW,31200,2012-02-13 15:24:00,Adams Mill & Columbia Rd NW,31104,W01417,Registered,138850
+0h 13m 44sec.,824,2012-03-26 16:45:00,Georgetown Harbor / 30th St NW,31215,2012-03-26 16:58:00,Adams Mill & Columbia Rd NW,31104,w00644,Registered,333681
+0h 9m 42sec.,582,2012-03-24 10:56:00,25th St & Pennsylvania Ave NW,31237,2012-03-24 11:06:00,17th & Corcoran St NW,31214,W01374,Registered,323428
+0h 24m 20sec.,1460,2012-01-13 08:48:00,Van Ness Metro / UDC,31300,2012-01-13 09:12:00,10th St & Constitution Ave NW,31219,W00983,Registered,37103
+0h 11m 55sec.,715,2012-03-02 08:45:00,Massachusetts Ave & Dupont Circle NW,31200,2012-03-02 08:57:00,US Dept of State / Virginia Ave & 21st St NW,31220,W00412,Registered,205750
+0h 2m 48sec.,168,2012-01-28 16:11:00,16th & Harvard St NW,31103,2012-01-28 16:14:00,Lamont & Mt Pleasant NW,31107,W00075,Registered,83867
+0h 4m 10sec.,250,2012-01-22 20:20:00,14th & Harvard St NW,31105,2012-01-22 20:24:00,Adams Mill & Columbia Rd NW,31104,W00754,Registered,62588
+0h 6m 41sec.,401,2012-02-22 22:49:00,Thomas Circle,31241,2012-02-22 22:56:00,20th & O St NW / Dupont South,31234,W01153,Registered,174607
+0h 16m 10sec.,970,2012-03-12 18:17:00,L'Enfant Plaza / 7th & C St SW,31218,2012-03-12 18:34:00,Eastern Market / 7th & North Carolina Ave SE,31610,W00092,Registered,250421
+0h 21m 21sec.,1281,2012-01-24 10:46:00,13th & H St NE,31611,2012-01-24 11:08:00,4th St & Massachusetts Ave NW,31604,W00418,Registered,66437
+0h 6m 8sec.,368,2012-01-18 22:17:00,5th St & K St NW,31600,2012-01-18 22:23:00,1st & M St NE,31603,W01074,Registered,52953
+0h 10m 3sec.,603,2012-03-21 17:53:00,Lynn & 19th St North,31014,2012-03-21 18:03:00,37th & O St NW / Georgetown University,31236,W00926,Registered,304557
+0h 1m 27sec.,87,2012-02-03 19:34:00,11th & Kenyon St NW,31102,2012-02-03 19:36:00,11th & Kenyon St NW,31102,W00208,Registered,108656
+0h 20m 13sec.,1213,2012-02-20 16:53:00,L'Enfant Plaza / 7th & C St SW,31218,2012-02-20 17:13:00,Thomas Circle,31241,W01409,Casual,165131
+0h 11m 53sec.,713,2012-03-15 13:09:00,16th & U St NW,31229,2012-03-15 13:21:00,New York Ave & 15th St NW,31222,W00763,Registered,266473
+0h 7m 58sec.,478,2012-03-05 07:18:00,11th & Kenyon St NW,31102,2012-03-05 07:26:00,16th & U St NW,31229,W00595,Registered,215738
+0h 18m 32sec.,1112,2012-01-13 17:46:00,14th & D St NW / Ronald Reagan Building,31231,2012-01-13 18:05:00,20th St & Florida Ave NW,31110,W00133,Registered,38687
+0h 7m 55sec.,475,2012-01-10 14:09:00,Columbus Circle / Union Station,31623,2012-01-10 14:17:00,14th & D St SE,31607,W00888,Registered,28073
+0h 6m 52sec.,412,2012-02-03 19:10:00,North Capitol St & F St NW,31624,2012-02-03 19:17:00,7th & F St NW / National Portrait Gallery,31232,W01124,Registered,108531
+0h 14m 27sec.,867,2012-02-09 17:48:00,4th & D St NW / Judiciary Square,31621,2012-02-09 18:02:00,1st & Rhode Island Ave NW,31506,W00519,Registered,128435
+0h 20m 31sec.,1231,2012-01-24 23:22:00,5th St & K St NW,31600,2012-01-24 23:42:00,Park Rd & Holmead Pl NW,31602,W00395,Casual,69497
+0h 6m 18sec.,378,2012-03-01 18:03:00,7th & R St NW / Shaw Library,31245,2012-03-01 18:09:00,17th & Rhode Island Ave NW,31239,W01153,Registered,203397
+0h 8m 32sec.,512,2012-01-14 16:19:00,Calvert St & Woodley Pl NW,31106,2012-01-14 16:27:00,Connecticut Ave & Newark St NW / Cleveland Park,31305,W00594,Registered,41288
+0h 23m 59sec.,1439,2012-02-08 07:10:00,5th & F St NW,31620,2012-02-08 07:34:00,18th & Bell St,31007,W01307,Registered,123346
+0h 7m 30sec.,450,2012-02-20 08:46:00,7th & R St NW / Shaw Library,31245,2012-02-20 08:54:00,8th & H St NW,31228,W01400,Registered,163238
+0h 7m 51sec.,471,2012-03-11 10:14:00,3000 Connecticut Ave NW / National Zoo,31307,2012-03-11 10:21:00,20th St & Florida Ave NW,31110,W00677,Registered,242282
+0h 15m 16sec.,916,2012-03-21 08:32:00,7th & R St NW / Shaw Library,31245,2012-03-21 08:47:00,C & O Canal & Wisconsin Ave NW,31225,W01155,Registered,301666
+0h 10m 3sec.,603,2012-02-17 19:09:00,18th & M St NW,31221,2012-02-17 19:19:00,10th & U St NW,31111,W00449,Registered,155290
+0h 8m 12sec.,492,2012-03-23 12:16:00,Georgia Ave and Fairmont St NW,31207,2012-03-23 12:24:00,14th & V St NW,31101,W00611,Registered,316286
+1h 5m 30sec.,3930,2012-03-23 14:21:00,USDA / 12th & Independence Ave SW,31217,2012-03-23 15:27:00,Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,31240,W01226,Casual,317218
+0h 11m 58sec.,718,2012-02-23 00:14:00,Georgia & New Hampshire Ave NW,31400,2012-02-23 00:26:00,Florida Ave & R St NW,31503,W01344,Casual,174706
+0h 6m 16sec.,376,2012-03-25 16:57:00,Convention Center / 7th & M St NW,31223,2012-03-25 17:03:00,15th & P St NW,31201,W01408,Registered,328678
+0h 18m 42sec.,1122,2012-03-21 17:32:00,13th St & New York Ave NW,31227,2012-03-21 17:51:00,Adams Mill & Columbia Rd NW,31104,W00426,Registered,304283
+0h 3m 59sec.,239,2012-02-14 14:11:00,14th & D St SE,31607,2012-02-14 14:15:00,Lincoln Park / 13th & East Capitol St NE ,31619,W00793,Registered,142532
+0h 10m 52sec.,652,2012-03-12 08:51:00,10th & U St NW,31111,2012-03-12 09:02:00,8th & H St NW,31228,W01231,Registered,247646
+1h 7m 39sec.,4059,2012-03-21 18:37:00,Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,31240,2012-03-21 19:44:00,20th & O St NW / Dupont South,31234,W00497,Casual,305152
+0h 10m 11sec.,611,2012-03-06 12:44:00,14th & V St NW,31101,2012-03-06 12:55:00,17th & K St NW [formerly 17th & L St NW],31213,W00661,Registered,220413
+0h 39m 14sec.,2354,2012-03-23 19:01:00,19th St & Constitution Ave NW,31235,2012-03-23 19:40:00,Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,31240,W00560,Casual,320360
+0h 4m 19sec.,259,2012-03-28 09:23:00,M St & Pennsylvania Ave NW,31246,2012-03-28 09:27:00,21st & M St NW,31212,W00590,Registered,342608
+0h 20m 32sec.,1232,2012-03-29 20:40:00,Jefferson Dr & 14th St SW,31247,2012-03-29 21:01:00,13th & D St NE,31622,W01468,Registered,352486
+0h 15m 48sec.,948,2012-01-18 12:03:00,Florida Ave & R St NW,31503,2012-01-18 12:18:00,20th St & Florida Ave NW,31110,W00892,Registered,50983
+0h 36m 50sec.,2210,2012-03-27 18:57:00,New York Ave & 15th St NW,31222,2012-03-27 19:34:00,New York Ave & 15th St NW,31222,W00522,Casual,340092
+0h 39m 29sec.,2369,2012-03-16 10:22:00,Georgetown Harbor / 30th St NW,31215,2012-03-16 11:02:00,10th St & Constitution Ave NW,31219,W00332,Casual,271836
+0h 24m 50sec.,1490,2012-03-31 15:13:00,Calvert St & Woodley Pl NW,31106,2012-03-31 15:37:00,7th & F St NW / National Portrait Gallery,31232,W01097,Registered,361942
